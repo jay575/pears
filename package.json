@@ -1,6 +1,6 @@
 {
-  "name": "nodejs-express-mongoose-demo",
-  "description": "A demo app illustrating the usage of express, mongoose, passportjs, jade and other modules in nodejs",
+  "name": "PEARS",
+  "description": "",
   "keywords": [
     "express",
     "mongoose",
@@ -10,10 +10,10 @@
   ],
   "version": "3.0.0",
   "private": false,
-  "author": "Madhusudhan Srinivasa <madhums8@gmail.com> (http://madhums.github.com)",
+  "author": "Jayati Ambekar",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/madhums/node-express-mongoose-demo.git"
+    "url" : ""
   },
   "engines": {
     "node": "0.10.x",
@@ -30,13 +30,7 @@
     "connect-mongo": "latest",
     "connect-flash": "latest",
     "passport": "latest",
-    "passport-local": "latest",
     "passport-facebook": "latest",
-    "passport-twitter": "latest",
-    "passport-github": "latest",
-    "passport-google-oauth": "latest",
-    "passport-linkedin": "latest",
-    "imager": "latest",
     "winston": "latest",
     "notifier": "latest",
     "async": "latest",
